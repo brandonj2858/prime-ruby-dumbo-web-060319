@@ -8,4 +8,4 @@
   end
 end
 
-puts prime?(105557)
+
