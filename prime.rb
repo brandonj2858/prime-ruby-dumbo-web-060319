@@ -11,4 +11,4 @@ end
 end
 end
 
-puts 
+puts prime?(105557)
